@@ -1,6 +1,6 @@
 pipeline {
     agent any
-    enviornment {
+    environment {
           APP_NAME = "reddit-clone-pipeline"
     }
     stages {
